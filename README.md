@@ -1,3 +1,5 @@
+> This repository is a copy (with full commit history) of the team project `dinhdaivu/CSC12004_Information-Systems-Analysis-and-Design` (HCMUS Information Systems Analysis & Design course, team of 4). My commits are under my university account `DomQuangMinhTriet`; the copy is kept here as part of my portfolio.
+
 # HomeStay Dorm
 
 Modern dormitory management system for private housing facilities
